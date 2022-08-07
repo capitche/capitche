@@ -6,6 +6,6 @@
 
 <!---
 capitche/capitche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. 
-www.linkedin.com/in/fayçal-hazem
+You can click the Preview link to take a look at your changes. www.linkedin.com/in/fayçal-hazem
+
 --->
